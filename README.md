@@ -1,2 +1,3 @@
 # hello-world
-Just the first repository to learn github,
+Hi,everynoe!
+I'm a senior from BUPT,and happy to see you!
